@@ -1,2 +1,2 @@
-# uml-university_management
+# University Management Department Class Diagram
 Üniversite Yönetim Sistemi
